@@ -1,8 +1,8 @@
 # Experiment-No.-05-Interfacing-SSH-on-Raspberry-Pi-for-remote-access-
-### NAME
-### ROLL NO:
-### DEPARTMENT 
-### DATE
+### NAME : Preethi A A
+### ROLL NO: 212222110035
+### DEPARTMENT: CSE(IoT)
+### DATE:
 
 
 
